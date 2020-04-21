@@ -8,11 +8,11 @@ public class Main {
         String str3 = "I love Java";
         String str4 = "I live in Moscow";
 
+
         LinkedList<String> earlBio = new LinkedList<>();
         earlBio.add(str1);
         earlBio.add(str2);
         earlBio.add(str3);
-        earlBio.add(str4);
 
         System.out.println(earlBio);
 
