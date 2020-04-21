@@ -6,7 +6,7 @@ public class Main {
         String str1 = "Hello World!";
         String str2 = "My name is Earl";
         String str3 = "I love Java";
-       // String str4 = "I live in Moscow";
+        //String str4 = "I live in Moscow";
 
 
         LinkedList<String> earlBio = new LinkedList<>();
