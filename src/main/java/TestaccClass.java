@@ -1,6 +1,6 @@
 public class TestaccClass {
     public static void main(String[] args) {
-        int number = 123;
+        int number = 12345;
         System.out.println(number);
     }
 }
