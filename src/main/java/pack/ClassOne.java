@@ -1,5 +1,7 @@
 package pack;
 
 public class ClassOne {
-    public void foo(){}
+    public static void main(String[] args) {
+
+    }
 }
