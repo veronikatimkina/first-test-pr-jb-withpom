@@ -1,4 +1,4 @@
-package pack;
+package main.java.pack;
 
 public class ClassThree {
     public void foo(){}
