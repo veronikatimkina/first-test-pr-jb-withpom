@@ -1,6 +1,8 @@
-public class Class1 {
+package main.java;
+
+public class Class14rename {
 
     public static void main(String[] args) {
-        System.out.println("");
+
     }
 }

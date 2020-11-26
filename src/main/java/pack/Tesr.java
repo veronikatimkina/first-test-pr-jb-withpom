@@ -1,5 +1,5 @@
 package main.java.pack;
 
-public class Class3 {
+public interface Tesr {
 
 }
